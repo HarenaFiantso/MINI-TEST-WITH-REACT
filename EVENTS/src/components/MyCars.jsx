@@ -4,7 +4,7 @@ import "./MyCars.css"
 
 class MyCars extends Component {
 	noCopy = () => {
-		alert("Ehhh Maty aaaa!")
+		alert("DO NOT COPY SoB")
 	}
 	mouseOver = (e) => {
 		if (e.target.classList.contains('styled')) {
